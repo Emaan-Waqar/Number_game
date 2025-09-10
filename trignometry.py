@@ -17,4 +17,4 @@ elif option== "3":
     value= math.tan(ans)
     print(value)
 else:
-    print("\nInvalid function number!!")    
+    print("\nInvalid function number!!!")    
